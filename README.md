@@ -24,6 +24,15 @@ Also, it must to be mentioned that the classification was implemented on differe
 *   [BoW (Bag of Words)](https://machinelearningmastery.com/gentle-introduction-bag-words-model/)  
 *   [Tf-idf](https://monkeylearn.com/blog/what-is-tf-idf/)
 
-Last but not least, we were asked to evaluate the accuracy of each method, using __10-Fold Cross Validation__.
+Last but not least, we were asked to evaluate the accuracy of each method, using __10-Fold Cross Validation__, and also we did some Clustering to our data.
 
 ## FinalProject:
+
+In the final Project, we did some of the things that we did in the previous Projects, such as cleaning and sclupting the data, but also we tried to optimize the scores of some classification models, i.e Naive Bayes.
+
+
+### Further informations
+
+This projects contains also explainations of each project and how to be implemented in greek.  
+
+*This project is part of the course: Data Mining Techniques , Spring of 2020. University of Athens, DiT.*
