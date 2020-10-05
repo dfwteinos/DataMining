@@ -33,6 +33,6 @@ In the final Project, we did some of the things that we did in the previous Proj
 
 ### Further informations
 
-This projects contains also explainations of each project and how to be implemented in greek.  
+These projects contains also explainations of each project individually and how to be implemented in greek.  
 
 *This project is part of the course: Data Mining Techniques , Spring of 2020. University of Athens, DiT.*
