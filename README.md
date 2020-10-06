@@ -12,7 +12,7 @@ In this Project, we were asked to kind of "play" with the given data, and we pra
 
 ## Project2:
 
-In the next Project, we did a step deeper into the __Machine Learning techniques__.  
+In the next Project, we took a step deeper into the __Machine Learning techniques__.  
 More specifically, we learned to use some classification methods, such as:
 *   [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html)  
 *   [Random Forests](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html#)  
